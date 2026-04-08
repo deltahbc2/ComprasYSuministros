@@ -9,48 +9,46 @@ from pathlib import Path
 import json
 import time
 
-productos = ["Limpiador multiusos", "Esponjas"]
+options = webdriver.EdgeOptions()
+options.add_argument("--start-maximized")
+
+def crear_driver():
+    try:
+        return webdriver.Edge(options=options)
+    except WebDriverException:
+        pass
+
+    try:
+        return webdriver.Edge(
+            service=Service(EdgeChromiumDriverManager().install()),
+            options=options
+        )
+    except Exception as e:
+        raise RuntimeError("Error con EdgeDriver") from e
+    
+driver = crear_driver()
+
+productos = ["Leche"]
+
 
 for producto in productos:
-    options = webdriver.EdgeOptions()
-    options.add_argument("--start-maximized")
-
-    def crear_driver():
-        # Intenta usar el EdgeDriver local/gestionado por Selenium primero.
-        try:
-            return webdriver.Edge(options=options)
-        except WebDriverException:
-            pass
-
-        # Como respaldo, intenta webdriver-manager (requiere internet).
-        try:
-            return webdriver.Edge(
-                service=Service(EdgeChromiumDriverManager().install()),
-                options=options
-            )
-        except Exception as e:
-            raise RuntimeError(
-                "No se pudo iniciar EdgeDriver. Verifica conexion a internet o instala Edge WebDriver localmente."
-            ) from e
-        
-    driver = crear_driver()
-
     url = f"https://www.heb.com.mx/{producto}?_q={producto}&map=ft"
 
     driver.get(url)
     time.sleep(8)
 
     cards = driver.find_elements(By.CSS_SELECTOR, "div.vtex-search-result-3-x-galleryItem")
-    resultados = []
 
-    cards_sin_patrocinados = []
+    resultados = []
+    cardsFiltered = []
+
     for card in cards:
         patrocinado = card.find_elements(By.CSS_SELECTOR, ".hebmx-store-theme-7-x-containerSponsored")
         if patrocinado:
             continue
-        cards_sin_patrocinados.append(card)
+        cardsFiltered.append(card)
 
-    for card in cards_sin_patrocinados[:10]:
+    for card in cardsFiltered[:10]:
         nombre = ""
         precio = ""
         link = ""
@@ -74,7 +72,7 @@ for producto in productos:
                 link = href
                 break
 
-        for img in card.find_elements(By.TAG_NAME, "img"):
+        for img in card.find_elements(By.CSS_SELECTOR, "img.vtex-product-summary-2-x-imageNormal.vtex-product-summary-2-x-image.vtex-product-summary-2-x-image--img-shelf"):
             src = (img.get_attribute("src") or img.get_attribute("data-src") or "").strip()
             if src:
                 imagen = src

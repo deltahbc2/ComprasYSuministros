@@ -1,5 +1,5 @@
 {
-  "Productos de limpieza": [
+  "Limpieza del hogar": [
     {
       "Cloro": [
         {
@@ -259,7 +259,6 @@
       ]
     }
   ],
-
   "Higiene personal": [
     {
       "Shampoo": [
@@ -332,7 +331,7 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
         }
       ],
-      "Jabon de tocador": [
+      "Jabón corporal": [
         {
           "nombre": "Jabón de Tocador Palmolive Neutro Balance Antibacterial 120 g con 4 pz",
           "precio": "$70.00",
@@ -370,7 +369,7 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/851754-300-300?v=638591787395370000&width=300&height=300&aspect=true"
         }
       ],
-      "Papel Higienico": [
+      "Papel higiénico": [
         {
           "nombre": "HCF Papel Higiénico con 12 Rollos",
           "precio": "$102.00",
@@ -484,10 +483,15 @@
       ]
     }
   ],
-
-  "Alimentos básicos": [
+  "Alimentos Básicos": [
     {
       "Leche": [
+        {
+          "nombre": "HCF Leche Deslactosada Light 1 L",
+          "precio": "$29.00",
+          "link": "https://www.heb.com.mx/hcf-leche-deslactosada-light-1-l-810114/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/713675-300-300?v=638498001325770000&width=300&height=300&aspect=true"
+        },
         {
           "nombre": "Lala Leche 100 Sin Lactosa Proteína Light 1 L",
           "precio": "$47.00",
@@ -516,13 +520,31 @@
           "nombre": "Alpura Leche Deslactosada 4 Pack 4 L",
           "precio": "$117.00",
           "link": "https://www.heb.com.mx/alpura-leche-deslactosada-4-pack-4-l-830848/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/730311-300-300?v=638498037452830000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "HEB Sabor Tradicional Leche Entera 1.89 L",
           "precio": "$38.00",
           "link": "https://www.heb.com.mx/heb-sabor-tradicional-leche-entera-1-89-lt-1020752/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/928205-300-300?v=638799826807470000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Alpura Leche Deslactosada Light 1.5 L",
+          "precio": "$31.50",
+          "link": "https://www.heb.com.mx/alpura-leche-deslactosada-light-1-5-l-869080/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/753683-300-300?v=638521807643830000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Alpura Leche Deslactosada Light 4 Pack 4 L",
+          "precio": "$117.00",
+          "link": "https://www.heb.com.mx/alpura-leche-deslactosada-light-4-pack-4-l-830849/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/730312-300-300?v=638498037455930000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Alpura Leche Clásica 4 Pack 4 L",
+          "precio": "$116.00",
+          "link": "https://www.heb.com.mx/alpura-leche-clasica-4-pack-4-l-830847/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/730310-300-300?v=638498037444900000&width=300&height=300&aspect=true"
         }
       ],
       "Huevo": [
@@ -667,8 +689,7 @@
       ]
     }
   ],
-
-  "Frutas y Verduras": [
+  "Frutas y verduras": [
     {
       "Manzana": [
         {
@@ -720,7 +741,7 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777650-300-300?v=638498137289930000&width=300&height=300&aspect=true"
         }
       ],
-      "Platano": [
+      "Plátano": [
         {
           "nombre": "Plátano",
           "precio": "$26.00\n/kg",
@@ -970,8 +991,7 @@
       ]
     }
   ],
-
-  "Despensa/Abarrotes": [
+  "Abarrotes": [
     {
       "Aceite": [
         {
