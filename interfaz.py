@@ -1,7 +1,7 @@
 #Libreria Streamlit para la interfaz de usuario
 import streamlit as st
 #Importar funcion para obtener los productos segun la categoria
-from getJSON import getProductsCategory
+from utils.getProductsFromJSON import getProductsCategory
 
 # configuración de la página
 st.set_page_config(
@@ -71,6 +71,7 @@ for i, categoria in enumerate(productos.keys()):
 
 
 
+subcategoria = []
 #Despliegue de opciones segun la categoria
 if st.session_state.categoria_actual:
     st.write(f"---")
@@ -81,18 +82,17 @@ if st.session_state.categoria_actual:
     sub_column = st.columns(len(opciones))
     
     for j, producto in enumerate(opciones):
-        sub_column[j].checkbox(producto, key=f"prod_{producto}")
-
-
+        if(sub_column[j].checkbox(producto, key=f"prod_{producto}")):
+            subcategoria.append(producto)
 
 st.write("---")
 
-if(st.session_state.categoria_actual):
+if(len(subcategoria) > 0):
     st.subheader("Resultados en HEB")
 
     categoria = ' '.join(st.session_state.categoria_actual.split(" ")[1:])
-    # subcategoria = None
-    productosHEB = getProductsCategory(categoria, "data/heb_productos.json")
+    subcategoria = [' '.join(sub.split(" ")[1:]) for sub in subcategoria]
+    productosHEB = getProductsCategory(categoria, subcategoria, "data/heb_productos.json")
 
     for inicio in range(0, len(productosHEB), 5):
         fila = productosHEB[inicio:inicio + 5]
