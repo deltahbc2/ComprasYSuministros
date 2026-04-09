@@ -95,19 +95,14 @@ if(len(subcategoria) > 0):
     productosHEB = getBestOptions(categoria, subcategoria, "data/heb_productos.json")
 
     minimum_cards = []
-    maximum_cards = []
 
     for sub in subcategoria:
         sub_result = productosHEB.get("bySubcategory", {}).get(sub, {})
         minimum_product = sub_result.get("minimumProduct")
-        maximum_product = sub_result.get("maximumProduct")
 
         if minimum_product is not None:
             minimum_cards.append((sub, minimum_product))
-        if maximum_product is not None:
-            maximum_cards.append((sub, maximum_product))
 
-    st.markdown("### Productos mas baratos")
     for inicio in range(0, len(minimum_cards), 5):
         fila = minimum_cards[inicio:inicio + 5]
         columnas = st.columns(5)
@@ -128,28 +123,6 @@ if(len(subcategoria) > 0):
                 st.write(f"Precio: {precio}")
                 if link:
                     st.link_button("Ver producto", link, key=f"min_{sub}_{nombre}")
-
-    st.markdown("### Productos mas caros")
-    for inicio in range(0, len(maximum_cards), 5):
-        fila = maximum_cards[inicio:inicio + 5]
-        columnas = st.columns(5)
-
-        for col, item in zip(columnas, fila):
-            sub, producto = item
-            with col:
-                nombre = producto.get("nombre", "Sin nombre")
-                precio = producto.get("precio", "Sin precio")
-                link = producto.get("link")
-                imagen = producto.get("imagen")
-
-                st.caption(sub)
-                if imagen:
-                    st.image(imagen)
-
-                st.markdown(f"**{nombre}**")
-                st.write(f"Precio: {precio}")
-                if link:
-                    st.link_button("Ver producto", link, key=f"max_{sub}_{nombre}")
 
     if not productosHEB:
         st.warning("No se encontraron productos para la categoría seleccionada.")
