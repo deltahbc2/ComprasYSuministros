@@ -120,7 +120,6 @@ try:
         for subcategoria in subcategorias:
             bloque_categoria[subcategoria] = scrape_subcategoria(driver, subcategoria)
 
-        # Mantiene el formato esperado por tu proyecto: categoria -> [ {subcategoria: [productos]} ]
         data[categoria] = [bloque_categoria]
 finally:
     driver.quit()
