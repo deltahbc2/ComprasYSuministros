@@ -35,6 +35,7 @@ def getProducts(categoryData: list) -> list:
                     item = dict(producto)
                     item["subcategoria"] = subcategoria
                     productos.append(item)
+    
     return productos
 
 

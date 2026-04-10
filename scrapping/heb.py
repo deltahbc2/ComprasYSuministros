@@ -25,14 +25,22 @@ def crear_driver():
         )
     except Exception as e:
         raise RuntimeError("Error con EdgeDriver") from e
-    
-driver = crear_driver()
-
-productos = ["Leche"]
 
 
-for producto in productos:
-    url = f"https://www.heb.com.mx/{producto}?_q={producto}&map=ft"
+def cargar_data_actual(json_path: Path) -> dict:
+    if json_path.exists():
+        try:
+            with open(json_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict):
+                return data
+        except Exception:
+            pass
+    return {}
+
+
+def scrape_subcategoria(driver, subcategoria: str) -> list:
+    url = f"https://www.heb.com.mx/{subcategoria}?_q={subcategoria}&map=ft"
 
     driver.get(url)
     time.sleep(8)
@@ -78,30 +86,43 @@ for producto in productos:
                 imagen = src
                 break
 
-        resultados.append({
-            "nombre": nombre,
-            "precio": precio,
-            "link": link,
-            "imagen": imagen,
-        })
+        #Solo agregar producto si tiene nombre y precio (campos obligatorios)
+        if nombre and precio:
+            resultados.append({
+                "nombre": nombre,
+                "precio": precio,
+                "link": link,
+                "imagen": imagen,
+            })
 
+    return resultados
+
+
+driver = crear_driver()
+
+# Configura aqui tus categorias y subcategorias a scrapear
+productos_por_categoria = {
+    "Limpieza del hogar": ["Cloro", "Detergente en polvo", "Suavizante", "Limpiador multiusos", "Esponjas"],
+    "Higiene personal": ["Shampoo", "Pasta dental", "Jabón corporal", "Papel higiénico", "Desodorante"],
+    "Alimentos Básicos": ["Leche", "Huevo", "Pan blanco", "Arroz", "Frijol"],
+    "Frutas y verduras": ["Manzana", "Plátano", "Tomate", "Cebolla", "Papa"],
+    "Abarrotes": ["Aceite", "Atún", "Azúcar", "Café", "Galletas"]
+}
+
+Path("data").mkdir(exist_ok=True)
+json_path = Path("data/heb_productos.json")
+data = cargar_data_actual(json_path)
+
+try:
+    for categoria, subcategorias in productos_por_categoria.items():
+        bloque_categoria = {}
+
+        for subcategoria in subcategorias:
+            bloque_categoria[subcategoria] = scrape_subcategoria(driver, subcategoria)
+
+        data[categoria] = [bloque_categoria]
+finally:
     driver.quit()
 
-    Path("data").mkdir(exist_ok=True)
-    json_path = Path("data/heb_productos.json")
-
-    if json_path.exists():
-        try:
-            with open(json_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            if not isinstance(data, dict):
-                data = {}
-        except Exception:
-            data = {}
-    else:
-        data = {}
-
-    data[producto] = resultados
-
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+with open(json_path, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)

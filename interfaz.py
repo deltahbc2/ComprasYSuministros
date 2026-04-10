@@ -1,7 +1,7 @@
 #Libreria Streamlit para la interfaz de usuario
 import streamlit as st
 #Importar funcion para obtener los productos segun la categoria
-from utils.getProductsFromJSON import getProductsCategory
+from utils.getBestOptions import getBestOptions
 
 # configuración de la página
 st.set_page_config(
@@ -88,30 +88,41 @@ if st.session_state.categoria_actual:
 st.write("---")
 
 if(len(subcategoria) > 0):
-    st.subheader("Resultados en HEB")
+    st.subheader("Mejores resultados en HEB")
 
     categoria = ' '.join(st.session_state.categoria_actual.split(" ")[1:])
     subcategoria = [' '.join(sub.split(" ")[1:]) for sub in subcategoria]
-    productosHEB = getProductsCategory(categoria, subcategoria, "data/heb_productos.json")
+    productosHEB = getBestOptions(categoria, subcategoria, "data/heb_productos.json")
 
-    for inicio in range(0, len(productosHEB), 5):
-        fila = productosHEB[inicio:inicio + 5]
+    minimum_cards = []
+
+    for sub in subcategoria:
+        sub_result = productosHEB.get("bySubcategory", {}).get(sub, {})
+        minimum_product = sub_result.get("minimumProduct")
+
+        if minimum_product is not None:
+            minimum_cards.append((sub, minimum_product))
+
+    for inicio in range(0, len(minimum_cards), 5):
+        fila = minimum_cards[inicio:inicio + 5]
         columnas = st.columns(5)
 
-        for col, producto in zip(columnas, fila):
+        for col, item in zip(columnas, fila):
+            sub, producto = item
             with col:
                 nombre = producto.get("nombre", "Sin nombre")
                 precio = producto.get("precio", "Sin precio")
                 link = producto.get("link")
                 imagen = producto.get("imagen")
 
+                st.caption(sub)
                 if imagen:
                     st.image(imagen)
 
                 st.markdown(f"**{nombre}**")
                 st.write(f"Precio: {precio}")
                 if link:
-                    st.link_button("Ver producto", link)
+                    st.link_button("Ver producto", link, key=f"min_{sub}_{nombre}")
 
     if not productosHEB:
         st.warning("No se encontraron productos para la categoría seleccionada.")

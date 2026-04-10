@@ -12,31 +12,13 @@
           "nombre": "Mi Tienda Cloro Regular 3.78 L",
           "precio": "$39.90",
           "link": "https://www.heb.com.mx/mi-tienda-cloro-regular-3-78-l-792805/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Cloro El Rendidor 950 Ml",
-          "precio": "$18.00",
-          "link": "https://www.heb.com.mx/cloralex-cloro-el-rendidor-950-ml-3165/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/589482-300-300?v=638648521608270000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Cloralex Cloro El Rendidor 3.75 L",
-          "precio": "$62.90",
-          "link": "https://www.heb.com.mx/cloralex-cloro-el-rendidor-3-75-l-3171/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/589663-300-300?v=638648521614170000&width=300&height=300&aspect=true"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/702510-300-300?v=638497976562830000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Cloro Blanqueador Desinfectante Clorox Original 3.8 L",
-          "precio": "$40.90",
+          "precio": "$49.90",
           "link": "https://www.heb.com.mx/clorox-cloro-triple-accion-regular-3-8-l-510/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Mi Tienda Cloro Regular 1.89 L",
-          "precio": "$28.00",
-          "link": "https://www.heb.com.mx/mi-tienda-cloro-regular-1-89-l-792806/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/702511-300-300?v=638497976564100000&width=300&height=300&aspect=true"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/802396-300-300?v=638277306612800000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Cloralex Blanqueador El Rendidor en Gel 950 ml",
@@ -45,16 +27,16 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/657794-300-300?v=639039906023200000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Mi Tienda Cloro Aroma Lavanda 3.78 L",
-          "precio": "$39.90",
-          "link": "https://www.heb.com.mx/mi-tienda-cloro-aroma-lavanda-3-78-l-792802/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "Cloro Ultragel 950 Ml",
+          "precio": "$39.00",
+          "link": "https://www.heb.com.mx/cloralex-cloro-ultragel-950-ml-438145/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/603149-300-300?v=638648521712900000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Cloro Ultragel 950 Ml",
-          "precio": "$25.50",
-          "link": "https://www.heb.com.mx/cloralex-cloro-ultragel-950-ml-438145/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "Mi Tienda Cloro Regular 1.89 L",
+          "precio": "$28.00",
+          "link": "https://www.heb.com.mx/mi-tienda-cloro-regular-1-89-l-792806/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/702511-300-300?v=638497976564100000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Mi Tienda Cloro Regular 950 ml",
@@ -68,7 +50,7 @@
           "nombre": "Mi Tienda Detergente en Polvo Multiusos Aroma Lavanda 800 g",
           "precio": "$19.90",
           "link": "https://www.heb.com.mx/mi-tienda-detergente-polvo-lavanda-800-g-800-gr-1032621/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/948846-300-300?v=638874017335970000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Mi Tienda Detergente en Polvo Multiusos Aroma Floral 1.8 kg",
@@ -86,63 +68,57 @@
           "nombre": "Detergente en Polvo Multiusos 1 Kg",
           "precio": "$31.90",
           "link": "https://www.heb.com.mx/roma-detergente-en-polvo-multiusos-1-kg-3499/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/594380-300-300?v=638521552247030000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Detergente Polvo Multiusos 800 g",
           "precio": "$19.90",
           "link": "https://www.heb.com.mx/detergente-polvo-multiusos-800-g-184206/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/579801-300-300?v=638497703455830000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Detergente en polvo Persil Universal 4.5 kg Persil Detergente en polvo universal 4.5 kg",
-          "precio": "$165.00",
-          "link": "https://www.heb.com.mx/persil-detergente-en-polvo-universal-4-5-kg-693952/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Detergente en Polvo Biodegradable 1 Kg",
-          "precio": "$45.00",
-          "link": "https://www.heb.com.mx/blanca-nieves-detergente-en-polvo-biodegradable-1-kg-114988/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/574855-300-300?v=638520643146500000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "ACE Detergente en Polvo Limpieza Rápida 16 Cargas 1.7 kg",
-          "precio": "$57.00",
-          "link": "https://www.heb.com.mx/ace-detergente-en-polvo-regular-2-kg-248243/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Detergente en Polvo Ariel Limpieza Profunda a la Primera 4 kg",
-          "precio": "$161.00",
-          "link": "https://www.heb.com.mx/ariel-detergente-en-polvo-regular-4-kg-744418/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Ariel Detergente en Polvo Regular 2 kg",
-          "precio": "$79.00",
-          "link": "https://www.heb.com.mx/ariel-detergente-en-polvo-regular-2-kg-243493/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/778125-300-300?v=639034725389600000&width=300&height=300&aspect=true"
+          "nombre": "Detergente en Polvo Perlas Limpiadoras 750 Gr",
+          "precio": "$42.90",
+          "link": "https://www.heb.com.mx/ariel-detergente-en-polvo-perlas-limpiadoras-750-gr-469899/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/608492-300-300?v=639034722286800000&width=300&height=300&aspect=true"
         }
       ],
       "Suavizante": [
         {
           "nombre": "Suavizante de Ropa Suavitel Cuidado Superior Fresca Primavera 3 L",
-          "precio": "$63.50",
+          "precio": "$73.00",
           "link": "https://www.heb.com.mx/suavitel-suavizante-cuidado-superior-fresca-primavera-3-l-24376/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/778212-300-300?v=638926721252600000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "HEB Suavizante Aroma Primavera 7 L",
           "precio": "$175.00",
           "link": "https://www.heb.com.mx/heb-suavizante-aroma-primavera-7-l-785752/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/697328-300-300?v=638993250218900000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Suavizante de Ropa Suavitel Cuidado Superior Aroma de Sol 3 L",
-          "precio": "$63.50",
+          "precio": "$73.00",
           "link": "https://www.heb.com.mx/suavitel-suavizante-fresco-aroma-de-sol-3-l-456543/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/606510-300-300?v=638926720533670000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Suavizante Ensueño Max Frescura Azul 5.1 L",
+          "precio": "$127.00",
+          "link": "https://www.heb.com.mx/ensueno-suavizante-max-frescura-azul-5-1-5-1-lt-934387/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/824455-300-300?v=638498516312970000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Suavizante Liquidoaroma Relajante 7lt 7 Lt",
+          "precio": "$175.00",
+          "link": "https://www.heb.com.mx/heb-suavizante-liquidoaroma-relajante-7lt-7-lt-1040180/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/988044-300-300?v=638993251387200000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Ensueño Suavizante Max Frescura Primaveral 2.8 L",
+          "precio": "$69.00",
+          "link": "https://www.heb.com.mx/ensueno-suavizante-max-frescura-primaveral-2-8-l-95671/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/776281-300-300?v=638498134784170000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Suavizante de Telas Downy Intense Amanecer 2.8 L",
@@ -151,40 +127,10 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/788902-300-300?v=638860192615200000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Suavizante Liquidoaroma Relajante 7lt 7 Lt",
-          "precio": "$175.00",
-          "link": "https://www.heb.com.mx/heb-suavizante-liquidoaroma-relajante-7lt-7-lt-1040180/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Suavizante Ensueño Max Frescura Azul 5.1 L",
-          "precio": "$99.00",
-          "link": "https://www.heb.com.mx/ensueno-suavizante-max-frescura-azul-5-1-5-1-lt-934387/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Ensueño Suavizante Max Frescura Azul 1.5 L",
-          "precio": "$43.50",
-          "link": "https://www.heb.com.mx/ensueno-suavizante-max-frescura-azul-1-5-l-786584/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
           "nombre": "Suavitel Suavizante Para Ropa de Bebé 3 L",
-          "precio": "$63.50",
+          "precio": "$73.00",
           "link": "https://www.heb.com.mx/suavitel-suavizante-para-ropa-de-bebe-3-l-626587/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Suavizante de Ropa Suavitel Momentos Mágicos Abrazo de Amor 4.8 L",
-          "precio": "$155.00",
-          "link": "https://www.heb.com.mx/suavitel-suavizante-momentos-magicos-abrazos-de-amor-4-8-l-855280/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "HCF Suavizante Aroma Primaveral 850 ml",
-          "precio": "$24.00",
-          "link": "https://www.heb.com.mx/hcf-suavizante-aroma-primaveral-850-ml-673993/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/653194-300-300?v=638889567147530000&width=300&height=300&aspect=true"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/639786-300-300?v=638497843064770000&width=300&height=300&aspect=true"
         }
       ],
       "Limpiador multiusos": [
@@ -204,19 +150,19 @@
           "nombre": "Mi Tienda Limpiador Multiusos Aroma Lavanda 2 L",
           "precio": "$20.80",
           "link": "https://www.heb.com.mx/mi-tienda-limpiador-multiusos-aroma-lavanda-2-l-804961/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/710214-300-300?v=638497993484230000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HCF Limpiador Liquido Lavanda 1 L",
+          "precio": "$20.90",
+          "link": "https://www.heb.com.mx/hcf-limpiador-liquido-lavanda-1-l-94703/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/776231-300-300?v=639078786385570000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Limpiador Multiusos Aromatizante Poett Espiritu Play 4 L",
-          "precio": "$66.50",
+          "precio": "$74.90",
           "link": "https://www.heb.com.mx/poett-limpiador-aromatizante-espiritu-play-4-l-700540/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "HCF Limpiador Multiusos Aroma Brisa 2 L",
-          "precio": "$31.90",
-          "link": "https://www.heb.com.mx/hcf-limpiador-multiusos-aroma-brisa-2-l-607210/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/854994-300-300?v=639006209570830000&width=300&height=300&aspect=true"
         }
       ],
       "Esponjas": [
@@ -230,13 +176,7 @@
           "nombre": "Fibra Esponja Cero Rayas Rosa Gde 1 pz Fibra Esponja Cero Rayas Rosa Gde 1 Pz",
           "precio": "$39.90",
           "link": "https://www.heb.com.mx/scotch-brite-fibra-esponja-cero-rayas-rosa-gde--1-pz-239799/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Fibra Esponja Cero Rayas Cocina Ch 1 pz Fibra Esponja Cero Rayas Cocina Ch 1 Pz",
-          "precio": "$31.50",
-          "link": "https://www.heb.com.mx/scotch-brite-fibra-esponja-cero-rayas-cocina-ch--1-pz-522758/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/616626-300-300?v=638985474764600000&width=300&height=300&aspect=true"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777787-300-300?v=638985475620930000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Esponja Scrub Daddy Doble Cara 4 Pz",
@@ -245,10 +185,28 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/760134-300-300?v=638498100469400000&width=300&height=300&aspect=true"
         },
         {
+          "nombre": "Fibra Esponja Cero Rayas Cocina Ch 1 pz Fibra Esponja Cero Rayas Cocina Ch 1 Pz",
+          "precio": "$31.50",
+          "link": "https://www.heb.com.mx/scotch-brite-fibra-esponja-cero-rayas-cocina-ch--1-pz-522758/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/616626-300-300?v=638985474764600000&width=300&height=300&aspect=true"
+        },
+        {
           "nombre": "HCF Fibra Esponja Multiuso Chica 1 pz Fibra Esponja Multiuso Chica 1 Pz",
           "precio": "$17.00",
           "link": "https://www.heb.com.mx/hcf-fibra-esponja-multiuso-chica-1-pz-779455/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/693374-300-300?v=638520938801900000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Fibra Esponja Cero Rayas Baño Ch 1 pz Fibra Esponja Cero Rayas Baño Ch 1 Pz",
+          "precio": "$30.50",
+          "link": "https://www.heb.com.mx/scotch-brite-fibra-esponja-cero-rayas-bano-ch-1-pz-213849/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/582548-300-300?v=638985473953530000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Esponja Grande 1 Pz",
+          "precio": "$19.00",
+          "link": "https://www.heb.com.mx/great-day-esponja-grande-1-pz-430247/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/602632-300-300?v=638520722389730000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Esponja Scrub Daddy Doble Cara Colores 3 Pz",
@@ -272,31 +230,31 @@
           "nombre": "Shampoo Caprice Especialidades Acti-Ceramidas 2 en 1 750 ml",
           "precio": "$49.90",
           "link": "https://www.heb.com.mx/caprice-shampoo-especialidades-anti-ceramidas-2en1-750-ml-658187/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/647954-300-300?v=638783307266170000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Shampoo Head & Shoulders Anti-Caída con Romero 375 ml",
           "precio": "$107.00",
           "link": "https://www.heb.com.mx/head---shoulders-shampoo-romero-anticaida-375-ml-1049117/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/999027-300-300?v=639045955071230000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Shampoo Dream Efecto Keratina 680 Ml",
-          "precio": "$173.00",
-          "link": "https://www.heb.com.mx/elvive-shampoo-dream-efecto-keratina-680-ml-1011441/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "nombre": "Shampoo Dove Derma Care Fuerza Anti-Caída 675 ml",
+          "precio": "$135.00",
+          "link": "https://www.heb.com.mx/dove-shampoo-anti-caida-675-ml-1025035/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/948826-300-300?v=638874017213030000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Shampoo Reparacion Molecular 510 Ml",
+          "precio": "$147.00",
+          "link": "https://www.heb.com.mx/pantene-shampoo-reparacion-molecular-510-ml-1065131/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/1006654-300-300?v=639072743959700000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Shampoo Agua de Coco Y Jazmín 600 Ml",
           "precio": "$119.00",
           "link": "https://www.heb.com.mx/herbal-essences-shampoo-agua-de-coco-y-jazmin-600-ml-912799/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/774622-300-300?v=638498131144300000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Shampoo Sensitive Care 680 Ml",
-          "precio": "$69.90",
-          "link": "https://www.heb.com.mx/neutro-balance-shampoo-sensitive-care-680-ml-905675/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
         }
       ],
       "Pasta dental": [
@@ -304,69 +262,69 @@
           "nombre": "Colgate Triple Acción Pasta Dental Original 3 x 66 ml",
           "precio": "$42.90",
           "link": "https://www.heb.com.mx/colgate-pasta-dental-triple-accion-menta-3pack-66-ml-711565/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/664314-300-300?v=638492130456630000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Colgate Triple Acción Pasta Dental 2 x 80 ml",
           "precio": "$35.50",
           "link": "https://www.heb.com.mx/colgate-pasta-dental-triple-action-2x80-ml-329563/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/591304-300-300?v=638492129174770000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Colgate Triple Acción Pasta Dental Extra Blancura 125 ml",
           "precio": "$25.00",
           "link": "https://www.heb.com.mx/colgate-pasta-dental-xtrablancura-125-ml-811955/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/715108-300-300?v=638492130950700000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Max White Pasta Dental Cool Mint 2 pz 60 ml",
           "precio": "$36.50",
           "link": "https://www.heb.com.mx/colgate-max-white-pasta-dental-cool-mint-2-pz-60-ml-744261/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/676497-300-300?v=638497921944100000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Colgate Triple Acción Pasta Dental 2 x 115 ml",
           "precio": "$50.00",
           "link": "https://www.heb.com.mx/colgate-pasta-dental-triple-accion-2-pack-115-ml-344600/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/593738-300-300?v=638492129219830000&width=300&height=300&aspect=true"
         }
       ],
       "Jabón corporal": [
         {
-          "nombre": "Jabón de Tocador Palmolive Neutro Balance Antibacterial 120 g con 4 pz",
-          "precio": "$70.00",
-          "link": "https://www.heb.com.mx/palmolive-jabon-multipack-antibacterial-4-pz-635190/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "HEB Jabón Líquido Corporal Men 3 en 1 con 700 ml",
+          "precio": "$68.00",
+          "link": "https://www.heb.com.mx/heb-jabon-liq-corp-men-3-en-1-700-ml-1040186/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/957869-300-300?v=638914629589900000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Jabón de Tocador Palmolive Naturals Café y Aceite de Almendras 120 g",
-          "precio": "$18.00",
-          "link": "https://www.heb.com.mx/palmolive-natur-jabon-barra-ind-cafe-y-aceite-de-almendra-120-gr-1055743/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "HEB Jabón Líquido Corporal Red Berries 700 ml",
+          "precio": "$68.00",
+          "link": "https://www.heb.com.mx/heb-jab-liq-corp-red-berries-700-ml-1040182/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/957866-300-300?v=638914629495500000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Jabón en Barra Palmolive Naturals Aloe y Oliva Sensación Humectante con 3 pz de 100 g",
-          "precio": "$39.00",
-          "link": "https://www.heb.com.mx/palmolive-jabon-multipack-aloe-y-oliva-3-pz-960264/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "HEB Jabón Líquido Corporal Oats & Honey 700 ml",
+          "precio": "$68.00",
+          "link": "https://www.heb.com.mx/heb-jab-liq-corp-oats---honey-700-ml-1040184/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/957868-300-300?v=638914629551070000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Jabón de Tocador Palmolive Naturals Arcilla Negra y Aceite de Eucalipto, Sensación Purificante 120 g",
-          "precio": "$18.00",
-          "link": "https://www.heb.com.mx/palmolive-jabon-en-barra-arcilla-negra-y-aceite-de-eucalipto-120-gr-994755/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "HEB Jabón Líquido Corporal Milk Spa 700 ml",
+          "precio": "$68.00",
+          "link": "https://www.heb.com.mx/heb-jab-liq-corp-milk-spa-700-ml-1040181/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/957865-300-300?v=638914629468970000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Jabón de Tocador Palmolive Naturals Café y Aceite de Almendras con 4 pz",
-          "precio": "$73.00",
-          "link": "https://www.heb.com.mx/palmolive-jabon-mpack-cafe-y-aceite-almendra-4-pz-1055742/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
+          "nombre": "HEB Jabón Líquido Corporal Neutral Care 700 ml",
+          "precio": "$68.00",
+          "link": "https://www.heb.com.mx/heb-jab-liq-corp-neutral-care-700-ml-1040183/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/957867-300-300?v=638914629517130000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Jabón de Tocador Palmolive Neutro Balance Dermolimpiador 100 g con 3 pz",
-          "precio": "$55.00",
-          "link": "https://www.heb.com.mx/neutro-balance-jabon-multipack-dermolimpiador-3-pz-960265/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/851754-300-300?v=638591787395370000&width=300&height=300&aspect=true"
+          "nombre": "HEB Jabón Líquido Corporal Tropical Paradise 700 ml",
+          "precio": "$68.00",
+          "link": "https://www.heb.com.mx/heb-jab-liq-corp-tropical-paradise-700-ml-1040185/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/957906-300-300?v=638914631410600000&width=300&height=300&aspect=true"
         }
       ],
       "Papel higiénico": [
@@ -374,7 +332,7 @@
           "nombre": "HCF Papel Higiénico con 12 Rollos",
           "precio": "$102.00",
           "link": "https://www.heb.com.mx/hcf-papel-higienico-280-hojas-dobles-con-12-pz-624072/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/639173-300-300?v=638894752286970000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "HCE Papel Higiénico Lavanda con 16 Rollos",
@@ -386,7 +344,7 @@
           "nombre": "Papel Higiénico Petalo Ultra Jumbo con 16 Rollos",
           "precio": "$89.00",
           "link": "https://www.heb.com.mx/petalo-papel-higienico-ultra-jumbo-234-hd-16-pz-688116/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/657491-300-300?v=638805770221700000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "HCE Papel Higiénico Lavanda con 16 Rollos",
@@ -395,40 +353,16 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/891200-300-300?v=638969933326000000&width=300&height=300&aspect=true"
         },
         {
+          "nombre": "Papel Higiénico Cottonelle Elegance con 32 Rollos",
+          "precio": "$239.00",
+          "link": "https://www.heb.com.mx/papel-higienico-cottonelle-elegance-228-hojas-dobles-32-pz-892832/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/768573-300-300?v=638563841050370000&width=300&height=300&aspect=true"
+        },
+        {
           "nombre": "Papel Higiénico Cottonelle Elegance con 18 Rollos",
           "precio": "$177.00",
           "link": "https://www.heb.com.mx/papel-higienico-elegance-cotonelle-215-hojas-dobles-con-18-pz-796938/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/834661-300-300?v=638719371097370000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Papel Higiénico Cottonelle Elegance con 32 Rollos",
-          "precio": "$239.00",
-          "link": "https://www.heb.com.mx/papel-higienico-cottonelle-elegance-228-hojas-dobles-32-pz-892832/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Papel Higiénico Cottonelle Soft Care con 24 Rollos",
-          "precio": "$147.00",
-          "link": "https://www.heb.com.mx/cottonelle-papel-higienico-soft-care-204-hd-24-pz-191537/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Mi Tienda Papel Higiénico con 12 Rollos",
-          "precio": "$52.00",
-          "link": "https://www.heb.com.mx/mi-tienda-papel-higienico-200-hojas-dobles-12-pz-779575/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/693494-300-300?v=638497957368030000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Papel Higiénico Cottonelle Elegance con 4 Rollos",
-          "precio": "$27.00",
-          "link": "https://www.heb.com.mx/cottonelle-papel-higienico-elegance-252-hd-4-pz-872251/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Papel Higiénico Regio Aires De Lavanda con 32 Rollos",
-          "precio": "$149.00",
-          "link": "https://www.heb.com.mx/regio-papel-higienico-aires-de-lavanda-papel-higienico-32-pz-962443/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
         }
       ],
       "Desodorante": [
@@ -442,7 +376,7 @@
           "nombre": "Desodorante Neutro Balance Zero 65 Ml",
           "precio": "$35.00",
           "link": "https://www.heb.com.mx/neutro-balance-desodorante-neutro-balance-zero-65-ml-271817/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/584393-300-300?v=638497714872130000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Arm & Hammer Ultramax Desodorante en Barra Fresh 73 g",
@@ -451,34 +385,16 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/611791-300-300?v=639016577534600000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Arm & Hammer Essentials Desodorante Natural en Barra de Lavanda 71 g",
-          "precio": "$114.00",
-          "link": "https://www.heb.com.mx/arm---hammer-desodorante-essentials-lavanda-romero-71-gr-1013490/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/942949-300-300?v=638931041248730000&width=300&height=300&aspect=true"
+          "nombre": "Desodorante en Aerosol Mujer Lady Speed Stick Powder Fresh Termo Activado 150 ml",
+          "precio": "$96.00",
+          "link": "https://www.heb.com.mx/lady-speed-stick-antitranspirante-para-mujer-24-7-powder-fresh-91-gr-659991/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/648617-300-300?v=638933632966800000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Desodorante Rexona Motion Sense Powder Dry 90 g con 3 pz",
           "precio": "$139.00",
           "link": "https://www.heb.com.mx/rexona-desodorante-rexona-deo-aer-ap-powder-90-gr-706930/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/662578-300-300?v=638521689086830000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Desodorante en Aerosol Mujer Lady Speed Stick Powder Fresh Termo Activado 150 ml",
-          "precio": "$96.00",
-          "link": "https://www.heb.com.mx/lady-speed-stick-antitranspirante-para-mujer-24-7-powder-fresh-91-gr-659991/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
-        },
-        {
-          "nombre": "Dove Antitranspirante Dermoaclarant 45 g",
-          "precio": "$78.00",
-          "link": "https://www.heb.com.mx/dove-antitranspirante-dermoaclarant-45-gr-632351/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/641516-300-300?v=638830827743370000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "NIVEA MEN Desodorante Antimanchas Black & White 50 ml",
-          "precio": "$37.00",
-          "link": "https://www.heb.com.mx/nivea-men-desodorante-antimanchas-black-white-50-ml-361597/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/596271-300-300?v=638497743022130000&width=300&height=300&aspect=true"
         }
       ]
     }
@@ -515,36 +431,6 @@
           "precio": "$165.00",
           "link": "https://www.heb.com.mx/hill-country-leche-deslactosada-light-6-pack-6-l-828942/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/728920-300-300?v=638521781160870000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Alpura Leche Deslactosada 4 Pack 4 L",
-          "precio": "$117.00",
-          "link": "https://www.heb.com.mx/alpura-leche-deslactosada-4-pack-4-l-830848/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/730311-300-300?v=638498037452830000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "HEB Sabor Tradicional Leche Entera 1.89 L",
-          "precio": "$38.00",
-          "link": "https://www.heb.com.mx/heb-sabor-tradicional-leche-entera-1-89-lt-1020752/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/928205-300-300?v=638799826807470000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Alpura Leche Deslactosada Light 1.5 L",
-          "precio": "$31.50",
-          "link": "https://www.heb.com.mx/alpura-leche-deslactosada-light-1-5-l-869080/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/753683-300-300?v=638521807643830000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Alpura Leche Deslactosada Light 4 Pack 4 L",
-          "precio": "$117.00",
-          "link": "https://www.heb.com.mx/alpura-leche-deslactosada-light-4-pack-4-l-830849/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/730312-300-300?v=638498037455930000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Alpura Leche Clásica 4 Pack 4 L",
-          "precio": "$116.00",
-          "link": "https://www.heb.com.mx/alpura-leche-clasica-4-pack-4-l-830847/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/730310-300-300?v=638498037444900000&width=300&height=300&aspect=true"
         }
       ],
       "Huevo": [
@@ -577,12 +463,6 @@
           "precio": "$62.00",
           "link": "https://www.heb.com.mx/san-juan-huevo-blanco-30-pz-201132/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/581542-300-300?v=638521521064000000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Mi Tienda Huevo Mediano 30 pz",
-          "precio": "$87.00",
-          "link": "https://www.heb.com.mx/huevo-mediano-30-pz-821862/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/723644-300-300?v=638498022737630000&width=300&height=300&aspect=true"
         }
       ],
       "Pan blanco": [
@@ -590,7 +470,7 @@
           "nombre": "Pan Blanco Bimbo",
           "precio": "$56.00",
           "link": "https://www.heb.com.mx/bimbo-pan-pan-blanco-bimbo-1-pz-781357/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/788692-300-300?v=638624330725500000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "HEB Pan de Barra Tapa Redonda 567 g",
@@ -611,10 +491,10 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/689290-300-300?v=638520929792070000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "HCF Pan de Barra Delgado 567 g",
-          "precio": "$41.90",
-          "link": "https://www.heb.com.mx/hcf-pan-de-barra-delgado-567-g-49185/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/611904-300-300?v=638521593964930000&width=300&height=300&aspect=true"
+          "nombre": "HEB Sabor Tradicional Pan de Barra Blanco 680 g",
+          "precio": "$50.00",
+          "link": "https://www.heb.com.mx/pan-de-barra-blanco-sabor-tradicional-heb-680-g-786069/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/697592-300-300?v=638497966150230000&width=300&height=300&aspect=true"
         }
       ],
       "Arroz": [
@@ -622,34 +502,70 @@
           "nombre": "Mi Tienda Arroz Extra 907 g",
           "precio": "$19.90",
           "link": "https://www.heb.com.mx/mi-tienda-arroz-extra-907-gr-497025/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/612879-300-300?v=638520759600430000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HEB Arroz Precocido Tomate 140 g",
+          "precio": "$25.90",
+          "link": "https://www.heb.com.mx/heb-arroz-precocido-tomate-140-gr-826484/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/727061-300-300?v=638498030224770000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HEB Arroz Precocido Jardinera 140 g",
+          "precio": "$22.90",
+          "link": "https://www.heb.com.mx/heb-arroz-precocido-jardinera-140-gr-826483/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/727059-300-300?v=638498030221130000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Arroz Precocido Blanco Sabor Tradicional 140 Gr",
+          "precio": "$25.90",
+          "link": "https://www.heb.com.mx/heb-arroz-precocido-blanco-sabor-tradicional-140-gr-826482/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/727057-300-300?v=638498030216770000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Verde Valle Arroz Súper Extra 900 g",
           "precio": "$38.90",
           "link": "https://www.heb.com.mx/verde-valle-arroz-super-extra-900-gr-252246/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/778808-300-300?v=638498139387030000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Arroz Súper Extra 1 Kg",
-          "precio": "$29.90",
-          "link": "https://www.heb.com.mx/heb-arroz-super-extra-1-kg-895435/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "HCF Arroz Súper Extra 1 kg Arroz Súper Extra 1 Kg",
-          "precio": "$28.90",
-          "link": "https://www.heb.com.mx/hcf-arroz-super-extra-1-kg-434035/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/602976-300-300?v=638497759384500000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "San Jose Arroz Super Extra en Caja 700 g",
-          "precio": "$36.00",
-          "link": "https://www.heb.com.mx/san-jose-arroz-super-extra-en-caja-700-gr-5820/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/628501-300-300?v=638521635038700000&width=300&height=300&aspect=true"
         }
       ],
       "Frijol": [
+        {
+          "nombre": "HEB Frijoles Bayos Refritos 430 g",
+          "precio": "$16.50",
+          "link": "https://www.heb.com.mx/heb-frijoles-bayos-refritos-430-gr-449016/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/605181-300-300?v=638497764791400000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HEB Frijoles Bayos Refritos Bayos en Grasa 430 g",
+          "precio": "$16.50",
+          "link": "https://www.heb.com.mx/heb-frijoles-bayos-refritos-bayos-en-grasa-430-gr-449019/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/605188-300-300?v=638497764809470000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HEB Frijoles Negros Refritos 430 g",
+          "precio": "$16.50",
+          "link": "https://www.heb.com.mx/heb-frijoles-negros-refritos-430-gr-449009/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/605166-300-300?v=638497764739200000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HEB Frijoles Peruanos Refritos 430 g",
+          "precio": "$16.50",
+          "link": "https://www.heb.com.mx/heb-frijoles-peruanos-refritos-430-gr-449020/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/605192-300-300?v=638497764816970000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HEB Frijoles Enteros Bayos Sabor Original 430 g",
+          "precio": "$16.50",
+          "link": "https://www.heb.com.mx/heb-frijoles-enteros-bayos-sabor-original-430-gr-786208/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/697725-300-300?v=638497966489170000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "HEB Frijoles Enteros Negros 430 g",
+          "precio": "$16.50",
+          "link": "https://www.heb.com.mx/heb-frijoles-enteros-negros-430-gr-786209/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/697726-300-300?v=638497966490870000&width=300&height=300&aspect=true"
+        },
         {
           "nombre": "Mi Tienda Frijo Pinto 907 g",
           "precio": "$22.90",
@@ -660,7 +576,7 @@
           "nombre": "Isadora Frijoles Refritos Bayos 400 g",
           "precio": "$19.90",
           "link": "https://www.heb.com.mx/isadora-frijoles-refritos-bayos-400-gr-536441/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/619658-300-300?v=638497798233900000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Verde Valle Frijol Pinto 900 g",
@@ -669,22 +585,10 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/599281-300-300?v=638497750132470000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "la Sierra Frijoles Refritos Bayos 400 g",
-          "precio": "$16.90",
-          "link": "https://www.heb.com.mx/la-sierra-frijoles-refritos-bayos-400-gr-319583/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
-        },
-        {
           "nombre": "Isadora Frijoles Refritos Bayos Sin Grasa 430 g",
           "precio": "$21.90",
           "link": "https://www.heb.com.mx/isadora-frijoles-refritos-bayos-sin-grasa-430-gr-273658/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/584536-300-300?v=638497715159330000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Verde Valle Frijoles Peruano 750 g",
-          "precio": "$49.90",
-          "link": "https://www.heb.com.mx/verde-valle-frijoles-peruano-750-gr-536708/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/619722-300-300?v=638497798364030000&width=300&height=300&aspect=true"
         }
       ]
     }
@@ -694,19 +598,19 @@
       "Manzana": [
         {
           "nombre": "Manzana Golden en Bolsa",
-          "precio": "$31.00",
+          "precio": "$26.00",
           "link": "https://www.heb.com.mx/seasons-select-manzana-golden-en-bolsa-1-pz-442570/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/844760-300-300?v=638459502605800000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Manzana Red Delicious Importada Suprema",
-          "precio": "$51.00\n/kg",
+          "precio": "$57.00\n/kg",
           "link": "https://www.heb.com.mx/manzana-red-delicious-importada-suprema-23909/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777682-300-300?v=638498137340830000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Manzana Rockit 907 g",
-          "precio": "$62.00",
+          "precio": "$66.90",
           "link": "https://www.heb.com.mx/manzana-rockit-bsa-908-gr-1-pz-967000/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/927425-300-300?v=638798958783400000&width=300&height=300&aspect=true"
         },
@@ -714,13 +618,13 @@
           "nombre": "Manzana Ambrosia",
           "precio": "$39.95",
           "link": "https://www.heb.com.mx/manzana-ambrosia-299456/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/586741-300-300?v=638521533709870000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Manzana Crisp Pink",
           "precio": "$39.95",
           "link": "https://www.heb.com.mx/manzana-crisp-pink-169019/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/578421-300-300?v=638521514816130000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Manzana Golden Nacional 1 Kg",
@@ -736,7 +640,7 @@
         },
         {
           "nombre": "Manzana Gala Importada",
-          "precio": "$72.00\n/kg",
+          "precio": "$82.00\n/kg",
           "link": "https://www.heb.com.mx/manzana-gala-importada-23849/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777650-300-300?v=638498137289930000&width=300&height=300&aspect=true"
         }
@@ -761,12 +665,6 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777783-300-300?v=638521834224200000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "HEB Fruta Congelada Fresas Y Plátanos 396 g",
-          "precio": "$62.90",
-          "link": "https://www.heb.com.mx/heb-fruta-congelada-fresas-y-platanos-396-gr-572128/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/625991-300-300?v=638478303860600000&width=300&height=300&aspect=true"
-        },
-        {
           "nombre": "Platano Mt Plátano Mt",
           "precio": "$29.95\n/kg",
           "link": "https://www.heb.com.mx/platano-mt-1-234086/p",
@@ -777,36 +675,12 @@
           "precio": "$68.00\n/kg",
           "link": "https://www.heb.com.mx/platano-manzano-grande-23973/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777785-300-300?v=638498137527000000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Plátano Pera 1 Kg",
-          "precio": "$45.00\n/kg",
-          "link": "https://www.heb.com.mx/platano-pera-23982/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777791-300-300?v=638521834239070000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Plátano Morado Grande 1 Kg",
-          "precio": "$52.00\n/kg",
-          "link": "https://www.heb.com.mx/platano-morado-grande-23980/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777788-300-300?v=638498137532370000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Plátano Dominico 1 Kg",
-          "precio": "$68.00\n/kg",
-          "link": "https://www.heb.com.mx/platano-dominico-23968/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777782-300-300?v=638498137518330000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Plátano Deshidratado 1 Pz",
-          "precio": "$52.00",
-          "link": "https://www.heb.com.mx/platano-deshidratado-1-pz-390513/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/597988-300-300?v=638497746939500000&width=300&height=300&aspect=true"
         }
       ],
       "Tomate": [
         {
           "nombre": "Tomate Huaje Supremo",
-          "precio": "$66.90\n/kg",
+          "precio": "$72.00\n/kg",
           "link": "https://www.heb.com.mx/tomate-huaje-supremo-332209/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/843153-300-300?v=638447501407230000&width=300&height=300&aspect=true"
         },
@@ -818,7 +692,7 @@
         },
         {
           "nombre": "Tomate Bola Supremo 1 kg",
-          "precio": "$62.90\n/kg",
+          "precio": "$73.00\n/kg",
           "link": "https://www.heb.com.mx/tomate-bola-supremo-24059/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777846-300-300?v=638521834292100000&width=300&height=300&aspect=true"
         },
@@ -830,7 +704,7 @@
         },
         {
           "nombre": "Tomatillo Limpio 1 Kg",
-          "precio": "$62.90\n/kg",
+          "precio": "$52.00\n/kg",
           "link": "https://www.heb.com.mx/tomatillo-limpio-24124/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777882-300-300?v=638521064057700000&width=300&height=300&aspect=true"
         },
@@ -839,30 +713,6 @@
           "precio": "$61.90",
           "link": "https://www.heb.com.mx/heb-organics-mezcla-de-tomates-cherry-284-gr-917672/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/832389-300-300?v=638874015817300000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Tomatillo Limpio Seasons Select en Malla",
-          "precio": "$47.00",
-          "link": "https://www.heb.com.mx/seasons-select-tomatillo-limpio--1-pz-251598/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/778784-300-300?v=638521065356400000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Tomate Rojo Mini Cupid 1 Pz",
-          "precio": "$37.00",
-          "link": "https://www.heb.com.mx/heb-tomate-rojo-mini-cupid-1-pz-796629/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/705842-300-300?v=638521753384800000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Mr Lucky Tomate Bola Orgánico 1 kg",
-          "precio": "$57.00\n/kg",
-          "link": "https://www.heb.com.mx/tomate-bola-organico-1-kg-471231/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/608632-300-300?v=638874015435100000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Del Fuerte Tomates Molidos Natural 210 g",
-          "precio": "$11.00",
-          "link": "https://www.heb.com.mx/del-fuerte-tomates-molidos-natural-259-g-742393/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
         }
       ],
       "Cebolla": [
@@ -901,38 +751,14 @@
           "precio": "$16.00",
           "link": "https://www.heb.com.mx/heb-cebolla-de-rabo-1-pz-24200/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777962-300-300?v=638521834467170000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Cebollin 1 pz Cebollin 1 Pz",
-          "precio": "$24.00",
-          "link": "https://www.heb.com.mx/heb-cebollin--1-pz-23632/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777446-300-300?v=638521833648600000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "HEB Cebolla en Polvo 60 g",
-          "precio": "$36.00",
-          "link": "https://www.heb.com.mx/heb-cebolla-en-polvo-60-gr-713464/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/665326-300-300?v=638497899530600000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Fresh Gourmet Cebolla Crujiente Saladas 99 g",
-          "precio": "$51.00",
-          "link": "https://www.heb.com.mx/fresh-gourmet-cebolla-crujiente-saladas-1-pz-227538/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/583943-300-300?v=638521526123930000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Cebolla Morada con Cascara 1 Kg",
-          "precio": "$41.00\n/kg",
-          "link": "https://www.heb.com.mx/cebolla-morada-con-cascara-24196/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777954-300-300?v=638498137826300000&width=300&height=300&aspect=true"
         }
       ],
       "Papa": [
         {
-          "nombre": "Papa Russet de Idaho en Bolsa 1.36 kg",
-          "precio": "$24.95",
-          "link": "https://www.heb.com.mx/papa-russet-de-idaho-en-bolsa-1-36-kg-897485/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "Papa Blanca",
+          "precio": "$50.00\n/kg",
+          "link": "https://www.heb.com.mx/papa-blanca-23882/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777664-300-300?v=638521833986630000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Papa Bca Suprema 1 Kg",
@@ -941,20 +767,14 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/876983-300-300?v=638577666626930000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Papa Blanca",
-          "precio": "$41.00\n/kg",
-          "link": "https://www.heb.com.mx/papa-blanca-23882/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777664-300-300?v=638521833986630000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Papa Russet Potatoes 2.27 kg",
-          "precio": "$26.00\n/kg",
-          "link": "https://www.heb.com.mx/papa-russet-bsa-mt-5lb-1-kg-1055685/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/1009768-300-300?v=639082447901830000&width=300&height=300&aspect=true"
+          "nombre": "Papa Russet de Idaho en Bolsa 1.36 kg",
+          "precio": "$24.95",
+          "link": "https://www.heb.com.mx/papa-russet-de-idaho-en-bolsa-1-36-kg-897485/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/841377-300-300?v=638727145387500000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Papa Blanca Chica 1 Kg",
-          "precio": "$33.90\n/kg",
+          "precio": "$44.00\n/kg",
           "link": "https://www.heb.com.mx/papa-blanca-chica-46710/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/608150-300-300?v=638521585910200000&width=300&height=300&aspect=true"
         },
@@ -963,30 +783,6 @@
           "precio": "$29.95\n/kg",
           "link": "https://www.heb.com.mx/papa-blanca-m-1-kg-278510/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/585025-300-300?v=638521529207830000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Papa Galeana 1 Kg",
-          "precio": "$62.90\n/kg",
-          "link": "https://www.heb.com.mx/papa-galeana-23889/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777670-300-300?v=638498137323130000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Papa Morena a Granel 1 Kg",
-          "precio": "$25.90\n/kg",
-          "link": "https://www.heb.com.mx/papa-morena-a-granel-279043/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/585128-300-300?v=638521529487570000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "HEB Papas Fritas Wavy Papas Crema Cebolla 255 g",
-          "precio": "$68.00",
-          "link": "https://www.heb.com.mx/heb-papas-fritas-wavy-papas-crema-cebolla-255-gr-340294/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
-        },
-        {
-          "nombre": "HEB Papas Fritas Thin Original 241 g",
-          "precio": "$68.00",
-          "link": "https://www.heb.com.mx/heb-papas-fritas-thin-original-241-gr-330133/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/DISCOUNT_segundo_a_la_mitad.png"
         }
       ]
     }
@@ -995,43 +791,37 @@
     {
       "Aceite": [
         {
-          "nombre": "Aceite 500ml Oliva Y Soya 500 Ml",
-          "precio": "$44.90",
-          "link": "https://www.heb.com.mx/heb-aceite-500ml-oliva-y-soya-500-ml-1001826/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "Mi Tienda Aceite Comestible Vegetal 946 ml",
+          "precio": "$34.90",
+          "link": "https://www.heb.com.mx/mi-tienda-aceite-comestible-vegetal-946-ml-971036/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/873016-300-300?v=638563916435100000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Aceite 500ml Oliva Y Canola 500 Ml",
-          "precio": "$44.90",
-          "link": "https://www.heb.com.mx/heb-aceite-500ml-oliva-y-canola-500-ml-1001825/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Aceite 1 Lt Oliva Y Soya 1000 Ml",
-          "precio": "$88.90",
-          "link": "https://www.heb.com.mx/heb-aceite-1-lt-oliva-y-soya-1000-ml-1001827/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
-        {
-          "nombre": "Aceite 1 Lt Oliva Y Canola 1000 Ml",
-          "precio": "$88.90",
-          "link": "https://www.heb.com.mx/heb-aceite-1-lt-oliva-y-canola-1000-ml-1001824/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "nombre": "HCF Aceite de Canola 800 ml",
+          "precio": "$31.90",
+          "link": "https://www.heb.com.mx/hcf-aceite-de-canola-800-ml-743809/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/676258-300-300?v=638483488321870000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Aceite de Soya Puro 850 ml",
           "precio": "$39.90",
           "link": "https://www.heb.com.mx/nutrioli-aceite-de-soya-puro-850-ml-647696/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/645921-300-300?v=638553472918800000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Aceite de Oliva Extra Virgen 500 Ml",
+          "precio": "$149.00",
+          "link": "https://www.heb.com.mx/heb-aceite-de-oliva-extra-virgen-500-ml-72875/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/670998-300-300?v=638497910887100000&width=300&height=300&aspect=true"
+        },
+        {
+          "nombre": "Aceite de Canola Puro 946 Ml",
+          "precio": "$34.90",
+          "link": "https://www.heb.com.mx/canoil-aceite-de-canola-puro-946-ml-241801/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/777929-300-300?v=638782444874830000&width=300&height=300&aspect=true"
         }
       ],
       "Atún": [
-        {
-          "nombre": "HEB Cubos de Atun 200 g",
-          "precio": "$59.90",
-          "link": "https://www.heb.com.mx/heb-cubos-de-atun-200-gr-906459/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
-        },
         {
           "nombre": "Dolores Atun en Agua Solido de Lomo 140 g",
           "precio": "$40.00",
@@ -1039,22 +829,28 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/581506-300-300?v=638497707727570000&width=300&height=300&aspect=true"
         },
         {
+          "nombre": "HEB Cubos de Atun 200 g",
+          "precio": "$67.90",
+          "link": "https://www.heb.com.mx/heb-cubos-de-atun-200-gr-906459/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/797066-300-300?v=638521085337800000&width=300&height=300&aspect=true"
+        },
+        {
           "nombre": "HCF Atun en Agua Pouch 74 g",
           "precio": "$12.90",
           "link": "https://www.heb.com.mx/hcf-atun-en-agua-pouch-74-g-577911/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/REBAJADO.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/627567-300-300?v=639015713616600000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Marina Azul Atún en Agua Pouch 74 g",
           "precio": "$15.90",
           "link": "https://www.heb.com.mx/marina-azul-atun-en-agua-pouch-74-gr-226515/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/583859-300-300?v=638667528234800000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Dolores Atun en Agua 130 g",
           "precio": "$20.90",
           "link": "https://www.heb.com.mx/dolores-atun-en-agua-130-gr-2288/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/584001-300-300?v=638497714146300000&width=300&height=300&aspect=true"
         }
       ],
       "Azúcar": [
@@ -1087,24 +883,6 @@
           "precio": "$39.00",
           "link": "https://www.heb.com.mx/hcf-azucar-blanca-refinada-1-kg-392731/p",
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/598164-300-300?v=638497747384000000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "B.C. Azúcar Baja en Calorías 700 g",
-          "precio": "$78.00",
-          "link": "https://www.heb.com.mx/b-c--azucar-baja-en-calorias-700-gr-103843/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/574056-300-300?v=638497313109400000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Azúcar Morena 907 pz Azúcar Morena 907 Pz",
-          "precio": "$47.00",
-          "link": "https://www.heb.com.mx/heb-azucar-morena--907-pz-755095/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/681830-300-300?v=638520916048130000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Azúcar Morena Mascabado 1 kg Azúcar Morena Mascabado 1 Kg",
-          "precio": "$87.00",
-          "link": "https://www.heb.com.mx/metco-azucar-morena-mascabado--1-kg-194035/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/580802-300-300?v=638520659141200000&width=300&height=300&aspect=true"
         }
       ],
       "Café": [
@@ -1118,31 +896,25 @@
           "nombre": "Café Soluble Nescafé Clásico Frasco 180 g",
           "precio": "$119.00",
           "link": "https://www.heb.com.mx/cafe-soluble-nescafe-clasico-frasco-200-g-580153/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/999333-300-300?v=639045960287970000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Café Soluble Nescafé Clásico 60 g",
           "precio": "$50.00",
           "link": "https://www.heb.com.mx/nescafe-cafe-soluble-clasico-60-gr-580155/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/628147-300-300?v=638558657669070000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "HCF Café Soluble Regular 90 g",
           "precio": "$61.00",
           "link": "https://www.heb.com.mx/hcf-cafe-soluble-regular-90-g-754722/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/681680-300-300?v=638497932355170000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "HEB Café Molido Chiapas 400 g",
-          "precio": "$152.00",
-          "link": "https://www.heb.com.mx/heb-cafe-molido-chiapas--400-gr-802592/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/709232-300-300?v=639025217464430000&width=300&height=300&aspect=true"
-        },
-        {
-          "nombre": "Café Soluble Nescafé Reserva Verarica Frasco 180 g",
-          "precio": "$156.00",
-          "link": "https://www.heb.com.mx/cafe-soluble-nescafe-reserva-verarica-frasco-180-g-613143/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "nombre": "Nescafe Café Soluble Clásico 120 g",
+          "precio": "$121.00",
+          "link": "https://www.heb.com.mx/nescafe-cafe-soluble-clasico-120-gr-580154/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/628140-300-300?v=638558657647200000&width=300&height=300&aspect=true"
         }
       ],
       "Galletas": [
@@ -1150,19 +922,19 @@
           "nombre": "Galletas Chips Ahoy Regular 258 g",
           "precio": "$39.00",
           "link": "https://www.heb.com.mx/nabisco-galletas-chips-ahoy-regular-266-gr-400797/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/599145-300-300?v=639053732503270000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "Marinela Galletas Príncipe Chocolate 315 g",
           "precio": "$41.00",
           "link": "https://www.heb.com.mx/marinela-galletas-principe-chocolate-315-gr-679703/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/655440-300-300?v=638610772973200000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Oreo Original Vainilla 252 g",
-          "precio": "$39.90",
-          "link": "https://www.heb.com.mx/nabisco-galletas-oreo-original-vainilla-273-6-gr-669675/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "nombre": "Galletas Surtidas Peke Pakes 374 g",
+          "precio": "$63.50",
+          "link": "https://www.heb.com.mx/gamesa-galletas-surtidas-peke-pakes-366-g-256913/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/985326-300-300?v=638980485721000000&width=300&height=300&aspect=true"
         },
         {
           "nombre": "HCF Galletas Fudge Striped Shortbread 368 g",
@@ -1171,16 +943,10 @@
           "imagen": "https://hebmx.vtexassets.com/arquivos/ids/599787-300-300?v=638497751522300000&width=300&height=300&aspect=true"
         },
         {
-          "nombre": "Galletas Surtidas Peke Pakes 374 g",
-          "precio": "$63.50",
-          "link": "https://www.heb.com.mx/gamesa-galletas-surtidas-peke-pakes-366-g-256913/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
-        },
-        {
-          "nombre": "Nabisco Galletas Ritz Mini Rollos 308 g",
-          "precio": "$30.00",
-          "link": "https://www.heb.com.mx/nabisco-galletas-ritz-mini-rollos-308-gr-650001/p",
-          "imagen": "https://hebmx.vtexassets.com/arquivos/03_comboloco.png"
+          "nombre": "Marinela Galletas Canelitas 300 g",
+          "precio": "$41.00",
+          "link": "https://www.heb.com.mx/marinela-galletas-canelitas-300-gr-694884/p",
+          "imagen": "https://hebmx.vtexassets.com/arquivos/ids/659613-300-300?v=638497886711100000&width=300&height=300&aspect=true"
         }
       ]
     }
