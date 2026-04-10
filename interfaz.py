@@ -87,17 +87,16 @@ if st.session_state.categoria_actual:
 
 st.write("---")
 
-if(len(subcategoria) > 0):
-    st.subheader("Mejores resultados en HEB")
 
-    categoria = ' '.join(st.session_state.categoria_actual.split(" ")[1:])
-    subcategoria = [' '.join(sub.split(" ")[1:]) for sub in subcategoria]
-    productosHEB = getBestOptions(categoria, subcategoria, "data/heb_productos.json")
+
+#Obtiene los mejores productos segun la categoria y subcategoria por tienda.
+def getProductsFromStore(path: str, categoria: str, subcategoria: list):
+    productos = getBestOptions(categoria, subcategoria, path)
 
     minimum_cards = []
 
     for sub in subcategoria:
-        sub_result = productosHEB.get("bySubcategory", {}).get(sub, {})
+        sub_result = productos.get("bySubcategory", {}).get(sub, {})
         minimum_product = sub_result.get("minimumProduct")
 
         if minimum_product is not None:
@@ -124,5 +123,18 @@ if(len(subcategoria) > 0):
                 if link:
                     st.link_button("Ver producto", link, key=f"min_{sub}_{nombre}")
 
-    if not productosHEB:
+    if not productos:
         st.warning("No se encontraron productos para la categoría seleccionada.")
+
+if(len(subcategoria) > 0):
+    categoria = ' '.join(st.session_state.categoria_actual.split(" ")[1:])
+    subcategoria = [' '.join(sub.split(" ")[1:]) for sub in subcategoria]
+
+    st.subheader("Mejores resultados en HEB")
+    getProductsFromStore("data/heb_productos.json", categoria, subcategoria)
+
+    st.subheader("Mejores resultados en Aurrera")
+    getProductsFromStore("data/aurrera_productos.json", categoria, subcategoria)
+
+    st.subheader("Mejores resultados en Walmart")
+    getProductsFromStore("data/walmart_productos.json", categoria, subcategoria)

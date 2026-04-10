@@ -100,7 +100,6 @@ def scrape_subcategoria(driver, subcategoria: str) -> list:
 
 driver = crear_driver()
 
-# Configura aqui tus categorias y subcategorias a scrapear
 productos_por_categoria = {
     "Limpieza del hogar": ["Cloro", "Detergente en polvo", "Suavizante", "Limpiador multiusos", "Esponjas"],
     "Higiene personal": ["Shampoo", "Pasta dental", "Jabón corporal", "Papel higiénico", "Desodorante"],

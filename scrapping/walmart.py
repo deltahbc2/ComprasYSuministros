@@ -5,12 +5,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
-import re 
+import re
 import pandas as pd
 import time
-import datetime
 import random
-
+import json
+from pathlib import Path
 
 def walmart_captcha(driver):
     try:
@@ -46,8 +46,8 @@ def scrape_walmart(search_query):
     try:
         driver.get(url)
         walmart_captcha(driver)
-        
-        #scroll carga objetos 
+
+        #scroll carga objetos
         driver.execute_script(f"window.scrollTo(0, 900);")
         time.sleep(random.uniform(3,5))
 
@@ -59,7 +59,7 @@ def scrape_walmart(search_query):
         productos = []
         items = driver.find_elements(By.CSS_SELECTOR, 'div[data-item-id]')
 
-        for item in items[:15]: 
+        for item in items[:10]:
             try:
                 nombre = item.find_element(By.CSS_SELECTOR, 'span[data-automation-id="product-title"]').text
 
@@ -69,14 +69,18 @@ def scrape_walmart(search_query):
                     precioreal = match.group(0)
                 else:
                     print("No se encontró precio")
-                
+                    continue
+
+                imagen = item.find_element(By.CSS_SELECTOR, 'img[data-testid="productTileImage"]').get_attribute("src")
+
                 productos.append({
                     "Nombre": nombre,
-                    "Precio": precioreal
+                    "Precio": precioreal,
+                    "Imagen": imagen
                 })
 
             except Exception:
-                continue 
+                continue
 
         return pd.DataFrame(productos)
     except Exception as ex:
@@ -87,21 +91,59 @@ def scrape_walmart(search_query):
     finally:
         driver.quit()
 
-# principal
-query = "laptop"
-df = scrape_walmart(query)
-df.drop_duplicates(subset=['Nombre'], inplace=True)
-
-if not df.empty:
-    print("Los datos se lograron extraer correctamente")
-    timenow = datetime.datetime.now()
-    formateo = timenow.strftime("%d/%m/%Y %H:%M:%S")
 
 
-    print(f"Datos extraidos {formateo}")
-    print(df)
-    filename = "precios_walmart.csv"
-    df.to_csv(filename, index=False, encoding='utf-8-sig')
-    print(f"\nArchivo guardado como {filename} ")
-else:
-    print('Hubo un problema y no se recolectaron datos')
+def cargar_data_actual(json_path: Path) -> dict:
+    if json_path.exists():
+        try:
+            with open(json_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict):
+                return data
+        except Exception:
+            pass
+    return {}
+
+
+
+productos_por_categoria = {
+    "Limpieza del hogar": ["Cloro", "Detergente en polvo", "Suavizante", "Limpiador multiusos", "Esponjas"],
+    "Higiene personal": ["Shampoo", "Pasta dental", "Jabón corporal", "Papel higiénico", "Desodorante"],
+    "Alimentos Básicos": ["Leche", "Huevo", "Pan blanco", "Arroz", "Frijol"],
+    "Frutas y verduras": ["Manzana", "Plátano", "Tomate", "Cebolla", "Papa"],
+    "Abarrotes": ["Aceite", "Atún", "Azúcar", "Café", "Galletas"]
+}
+
+Path("data").mkdir(exist_ok=True)
+json_path = Path("data/walmart_productos.json")
+data = cargar_data_actual(json_path)
+
+try:
+    for categoria, subcategorias in productos_por_categoria.items():
+        bloque_categoria = {}
+
+        for subcategoria in subcategorias:
+            print(f"Scrapeando {categoria} -> {subcategoria}")
+            df = scrape_walmart(subcategoria)
+            if not df.empty:
+                df.drop_duplicates(subset=['Nombre'], inplace=True)
+
+            productos = []
+            for row in df.to_dict(orient="records"):
+                productos.append({
+                    "nombre": row.get("Nombre", ""),
+                    "precio": row.get("Precio", ""),
+                    "link": "",
+                    "imagen": row.get("Imagen", "")
+                })
+
+            bloque_categoria[subcategoria] = productos
+
+        data[categoria] = [bloque_categoria]
+finally:
+    pass
+
+with open(json_path, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print(f"\nArchivo guardado como {json_path}")

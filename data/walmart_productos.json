@@ -1,0 +1,596 @@
+{
+  "Limpieza del hogar": [
+    {
+      "Cloro": [
+        {
+          "nombre": "Limpiador líquido para baño Harpic anti hongos con cloro 650 ml",
+          "precio": "$55.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/95f86dd9-4120-4c93-a2bd-101fabc3c6b9.e7b6c3c90457b46dac558abe68a545ea.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Blanqueador líquido Cloralex El Rendidor 3.75 l",
+          "precio": "$59.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b82037dd-11f8-44ba-bf28-77a6e49bb6d9.eaf09c6f3db66ae07cb1657681a72db6.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Blanqueador líquido Cloralex El Rendidor 2 l",
+          "precio": "$29.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/100c356a-116e-446d-8767-2fb241ec48e8.ff372dbab6f6a0fb820f8034c716fea8.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Pastilla sanitaria Cloralex Baños cloro y bicarbonato 4 pzas",
+          "precio": "$67.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/517a6ca0-00b7-4a73-822a-1caf40c03ac8.b56f609ed606b39332a8a1695ba59024.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Detergente en polvo": [
+        {
+          "nombre": "Detergente en polvo Persil Universal 4.5Kg",
+          "precio": "$160.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/761489d9-9fba-4497-8b09-339c0a91cf32.e07be0ff7cadc41ffc081b6974e528c5.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Detergente en polvo Roma multiusos biodegradable 1 kg",
+          "precio": "$36.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/3e69dcc5-ce09-405a-af28-c4e53af07245.1ffc6d146da28ee828030b8e7d344f6e.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Detergente en polvo 123 Suavizante y Jazmín 1.2Kg",
+          "precio": "$31.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/a308b0db-f724-4dcc-991c-3074793f1484.d85b869b93352f6404b661143289928c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Detergente en polvo Persil Universal 800g",
+          "precio": "$35.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/1685e99a-4359-4eb3-9aa1-776f14e79b1a.8c74132ee230cf6fece0dc4ffcc7e046.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "",
+          "precio": "$43.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/8ca7c03c-8f72-4295-8dd8-12a51b9a84a1.627d59b111c53262be63e4b3e515430a.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Suavizante": [
+        {
+          "nombre": "Suavizante líquido de ropa Ensueño argan mandarina 740 mililitros",
+          "precio": "$22.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/39237f66-5f30-4088-9ae9-a475f10161ee.e5c490b6dc42f4cdebe2ab39a44dc807.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Suavizante de Telas Suavitel Cuidado Superior Fresca Primavera 3 L",
+          "precio": "$67.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/d7372d7e-0c63-45ce-92d9-a5d847bc7d95.cc31a7d8d431360890f0684e05ec5355.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Suavizante de Telas Suavitel Cuidado Superior Fresca Primavera 740 ml",
+          "precio": "$20.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/d9926a72-91b7-4cb3-b52c-6e06cb3f8959.bcb4d5a4563fd08cd9ff81a50cb0b69a.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Suavizante de telas Ensueño Max frescura primaveral 5.1 l",
+          "precio": "$150.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/aa7f1604-6c08-4e00-bf6f-80528a706a8e.c3c0f898a0c979dc52ccb4bafd4e0f10.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Limpiador multiusos": [
+        {
+          "nombre": "Limpiador multiusos Aurrera con aroma a limón 10 l",
+          "precio": "$120.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/6d1cdff1-0e82-48d9-8bd9-29e72b965688.cc5eb92c2e6d3c51823b8db241d580d1.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Limpiador Multiusos Aromatizante Poett Fresco Despertar 4 L",
+          "precio": "$70.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/1f85af76-a935-48ba-968b-7825877bd28d.5ffdf1e7678882cdbf517d0b9423d102.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Limpiador Multiusos Líquido Ajax Pino Máxima Eficacia 3.7 L",
+          "precio": "$96.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/ce8eb1b4-1d6b-4c9e-af38-a143ec208223.34e1cbfb2b7940234540ff79a9b237f0.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Limpiador multiusos Aurrera lavanda 5 l",
+          "precio": "$70.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/5dc7fc8b-3fcf-423b-9e0a-5c1cb1f85144.2c8b16b1c95a50f6ceaefafd93fd1b7a.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Esponjas": [
+        {
+          "nombre": "Fibra esponja Great Value trabajos delicados",
+          "precio": "$20.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/fb4cdb7f-38df-4311-9695-ca1b5ea9cf6f.791a4881d4210e0fabfeea0c73f26295.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Fibra esponjas Scotch Brite grandes 2 pzas",
+          "precio": "$68.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/2ca3faa2-0c80-4c9f-be8b-1ec08ff21541.9ed03a44e38565f0e4aaa14726cc744f.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Fibra esponja 3M Scotch Brite para baño cero rayas grande 1 pza",
+          "precio": "$38.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/0b2c9cdc-b0c4-431e-ba67-ce32923530ea.0c05ed3960cb7e4302856d9bbfb77465.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Fibra esponja 3M Scotch Brite grande 1 pza",
+          "precio": "$33.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/9105c311-1989-4928-abad-2a7da97ba7f7.575d0b84ce6b14e31fbadc32959f7627.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ]
+    }
+  ],
+  "Higiene personal": [
+    {
+      "Shampoo": [
+        {
+          "nombre": "Shampoo Suavidad Rosa Mosqueta Herbal Essences Rosa Mosqueta 400 ml",
+          "precio": "$95.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/2d853269-63eb-45e4-b38f-302f9f3f3649.19024d8c60f6105dbfed00a2a3fe56b5.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Shampoo Palmolive Neutro Balance Sensitive Care Dermo Protect + Alivio y Suavidad 375 ml",
+          "precio": "$47.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/a437ee9d-c94e-4b32-8678-def6321bf540.f9a2d1033bd2df918d8fb9cd9924edf5.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Shampoo Sedal ceramidas 620 ml",
+          "precio": "$52.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b12838d8-1c25-4af5-8c45-dd41ca0dec74.8e72d790debea21fd5781fe69a1c14ef.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Shampoo Pantene Pro-V Miracles Colágeno Nutre & Revitaliza Nutritivo 510 ml",
+          "precio": "$118.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b590aad6-bc74-4039-acc4-0be00ddabbfd.0b4ba12602fb2b63aa56bf85f00d2bfc.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "",
+          "precio": "$49.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/0ca0efa4-602a-41f7-92dd-b3f126478861.c68f14f20ec3d49ac8a423c538a8ab32.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Pasta dental": [
+        {
+          "nombre": "Pasta Dental Colgate Triple Acción Menta Original 2 x 140 ml",
+          "precio": "$65.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/15b5481f-e83f-4f6e-a945-26df4201582e.a6c07abc6dec4e2d69930655b3593ebc.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Pasta Dental Colgate Total Original Mint Prevención Activa Anticaries con Flúor 150 ml",
+          "precio": "$85.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b965ed7c-793f-406e-a24d-70fb1ea5aa0b.4d55ab29c8c5d1a065acee675a8a1a29.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Pasta Dental Colgate Max Fresh Cool Mint Aliento Fresco 10x Más Duradero 2x80 ml",
+          "precio": "$44.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/bd7e2c90-f8d5-49bb-8bd0-95dce9e03dde.8630f0dfb405821733e6cdb73bba5ae6.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Pasta Dental Blanqueadora Colgate Luminous White Brillant 125 ml",
+          "precio": "$85.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/51cbb162-73d5-492d-b11d-57a576366446.107a6ab7f3b6744471ca03bbf3af9568.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Jabón corporal": [
+        {
+          "nombre": "El Remedio 100gr - Pomada Corporal con Mentol y Árnica – Uso Diario para Molestias Leves en Músculos y Articulaciones",
+          "precio": "$159.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/6570accf-178b-4f2b-87b0-b9775f5e2862.449560bb2d18da1af0454c27da633ba8.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Jabón Líquido Corporal Palmolive Neutro Balance Dermolimpiador 591 ml",
+          "precio": "$56.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b6744362-e688-4380-b25e-ed75647e3448.3b3bffcf9ef1310789e08747831fdf3d.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Jabón líquido corporal Grisi Neutro hipoalergénico 450 ml",
+          "precio": "$62.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/3fe3f3c2-0566-4be6-a961-c4591e8a1de0.6d7f64faf8671d1208ebc3d9d518f2ba.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "OUKEYA Set de Regalo de Jabón de Uva Hecho a Mano, Jabón Artesanal Cristalino con Rico Aroma a Uva, Barra Hidratante y Antioxidante Jabonosa para Baño, Decoración y Regalos, (Durazno)",
+          "precio": "$449.30",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/ed723411-6e22-4b69-a8b0-b5767c08573b.341ef3bb8c90ec421d7a788f1e7f8090.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "",
+          "precio": "$49.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/f9444ec8-1e40-4fee-9e85-ef27a218364f.a1e5e10d83fe899972fedde43726c4d4.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Papel higiénico": [
+        {
+          "nombre": "papel higiénico Facial Quality 4 rollos de 320 hojas",
+          "precio": "$22.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/9c632de1-de2c-4894-9f50-0b2bfb2751a9.f57938d04bdf8872b1d54047b6941282.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Papel higiénico Pétalo Rendimax 32 rollos de 220 hojas dobles",
+          "precio": "$175.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/f0bf5680-e973-4341-af42-47e3dfd50dae.8b63b1cc21535899912685f1bb4cbdb6.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Papel higiénico Kleenex Cottonelle Elegance 4 rollos con 252 hojas dobles c/u",
+          "precio": "$28.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/158cd9b9-a987-46cb-9c28-f8eec59232b5.2725b1da76d6035e3089da75a29b7e4d.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Papel higiénico Regio Luxury Almond Touch 18 rollos",
+          "precio": "$150.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/0445ef9f-c598-4ce7-96b4-d5d7f317d3ae.b8dee264c6db9029d7391c98821569d7.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Desodorante": [
+        {
+          "nombre": "Desodorante Dove Men+Care All Body Deo Aerosol Aloe & Bamboo",
+          "precio": "$121.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b8f6421d-82ec-4764-ad36-63170851b65b.f7fc06aa4a4d5c5530f6db3f338930d5.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Desodorante Nivea Tono Natural Efecto Satín Roll On para mujer 50ml",
+          "precio": "$43.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/e3870427-f108-41b6-ae5d-2e3e233862c3.a8c5e84dc7190a57655f55190a22ede5.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Desodorante Rexona Women Aerosol Fresh Citrus 150ml",
+          "precio": "$117.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/58fd6ddc-c927-4b1c-8198-b39e40922aa4.30144c0a1692298f921e188656961538.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Desodorante Antitranspirante Rexona V8 en aerosol para caballero 210 ml",
+          "precio": "$99.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/451e3429-53ee-4771-9849-e6c8c6f7850d.7d8312b0d9471f9945c0efccf94140a1.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ]
+    }
+  ],
+  "Alimentos Básicos": [
+    {
+      "Leche": [],
+      "Huevo": [],
+      "Pan blanco": [],
+      "Arroz": [
+        {
+          "nombre": "Arroz Schettino súper extra 907 g",
+          "precio": "$21.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/6f074a0d-8b96-4e24-aa1a-5309553d7166.8b7488c432c9d2767336e9e18b70cfac.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Arroz SOS grueso súper extra 1 kg",
+          "precio": "$38.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750111110503L.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Arroz La Merced super extra 907 g",
+          "precio": "$20.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/650e4303-e936-461d-9ccb-b2baebb62862.345f87149a611c843fb09dcde8ac9264.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Arroz Aurrera super extra 900 g",
+          "precio": "$17.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/521a17d6-71ff-4310-9010-50a82b7e3711.81affacb55dd0c184e7cb57f0a576b93.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Frijol": [
+        {
+          "nombre": "Frijol pinto Verde Valle 1 kg",
+          "precio": "$44.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/f1732c8a-77d1-4dab-bf9f-6a826f16d2d9.169016a38ccbff9798995ba67e5087f9.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Frijoles negros Isadora refritos 430 g",
+          "precio": "$18.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/265d2a1c-ad05-45fc-917f-15ab7eba48fb.b1d98550562d37e28641026ec85cd37e.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Frijol Nor-Ver negro 907 g",
+          "precio": "$24.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/19be095c-460e-45a4-af13-b9a893c0ffb7.adfffaf6bae058800c82c7e099dfa098.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Frijoles negros La Sierra refritos 580 g",
+          "precio": "$16.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/ce9f4746-2fc9-42dd-8897-1555c8fa5300.f962d18da3c09e2e18052a52a3a038c2.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ]
+    }
+  ],
+  "Frutas y verduras": [
+    {
+      "Manzana": [
+        {
+          "nombre": "Manzana gala Marketside en bolsa 1.3 aproximadamente precio por kilo",
+          "precio": "$49.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/f7b12620-5860-48d2-ab81-ee0d7349c6fb.8660aa954348826253a385882f4a4710.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Manzana Red Delicious por kilo",
+          "precio": "$40.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/9e986f7a-ce84-42dc-8c53-e7d375a2c924.9b1ef68784d67bade62bcbfae44a5e52.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Manzana red delicious Marketside en bolsa 1.3 aproximadamente precio por kilo",
+          "precio": "$38.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/32f1c549-9478-433e-8495-d0a8fe1fce66.0217bc15b93c9489ee50733614958a27.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Perón Golden Chavalinas con dip de manzana 420 g",
+          "precio": "$24.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/73a9c226-613b-4c4c-9d4a-7521cf1e7912.f7ab46831b8e981ced2a08aa4d2134bc.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Plátano": [
+        {
+          "nombre": "Penca de plátano Chiapas por kilo",
+          "precio": "$22.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/f656e8e2-45fc-4371-8a82-f32703a7b82d.a2fdac699b92a3b0aeeaaad2300734ac.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Penca de plátano macho por kilo",
+          "precio": "$36.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/967f7ae6-9235-45e8-a719-fc1c254cebe8.17d8946ca5a3c8892f29e1f4e6418e3d.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Penca de plátano dominico por kilo",
+          "precio": "$44.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/1c3b8890-9b28-4cca-873a-58a22f5136f4.0d5f0727167054b66d4b5d3eb966f6e9.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Tomate": [
+        {
+          "nombre": "Tomate Verde sin cáscara por kilo",
+          "precio": "$69.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/224ef755-ebf6-4651-a36a-d126a58f8b4d.7c7b80ae6cbc9d285dcaba404b566200.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Tomates molidos Del Fuerte condimentados 259 g",
+          "precio": "$11.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/ef473551-0178-49a8-92e7-a310ce942676.99d706cd59298dbb20f3a977e2d31bc7.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Tomate NatureSweet Cherubs to go 71 g",
+          "precio": "$24.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/1aeb91ff-3b2c-44cf-9096-6875afff9242.dc16171f94c55f9ada7cc459501e7308.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Tomate verde Frutas y Verduras Frescas en malla 1 kg aprox.",
+          "precio": "$64.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750643560798L.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Cebolla": [
+        {
+          "nombre": "Cebolla en trozo McCormick 58 g",
+          "precio": "$37.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b21cc244-ff9a-464e-8979-6652a9fdeea1.433ac8606aeb0826ba1480bb5f8c0e04.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Hojas sazonadoras Maggi Jugoso al Sartén ajo y cebolla 1 sobre con 4 pzas",
+          "precio": "$23.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/db368b33-7a6d-4047-af94-15c2d014a122.c6ee560b3863dcb7fa2631935f4e6594.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Cebollitas crujientes Mrs. Cubbison's sabor chile limón 80 g",
+          "precio": "$42.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/fe597012-8957-4b60-93c6-c198bf570a3a.095ff4d5b6f554bd1436ba870936a006.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Semillas Rancho Los Molinos Vita Cebolla Blanca",
+          "precio": "$30.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750300039347L.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Papa": [
+        {
+          "nombre": "Papa en malla por kilo",
+          "precio": "$28.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/92444f54-5675-4191-830d-5bde893bc097.290ef56fd80ee38cb6205935ac9663ea.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Papa blanca alfa por kilo",
+          "precio": "$48.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/9a6c18bf-e1ed-4da4-bcdd-319d0debafad.3a6e9f21cd6d333d98896e28149cc81e.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Papa alfa chica por kilo",
+          "precio": "$49.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b3843b61-be47-470f-abde-c3ee3b3e68a1.0faeaf46e9a8ec5524a2b7a5ab3ff6b8.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Papa cambray por kilo",
+          "precio": "$49.90",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/ad96db95-741c-4646-bb3e-c21e88c366dd.8c4cfea3f9e8ce8161efc0c9c0be10a0.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "",
+          "precio": "$25.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/1089fb35-c76d-468f-adb6-2af2d68e895d.1426f92905051967846056454c22689e.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ]
+    }
+  ],
+  "Abarrotes": [
+    {
+      "Aceite": [
+        {
+          "nombre": "Aceite vegetal 1-2-3 1 l",
+          "precio": "$36.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/3efee730-ad19-4b5c-b56b-d3d991d28228.b86ff7c540253e668ca504c828975344.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Aceite vegetal Cristal 1 l",
+          "precio": "$39.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/d19152a4-71a9-4a94-8a48-24e7ebe595e9.e5ab478d190ef5f06cde729834b97a53.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "OUKEYA Shampoo 4 en 1 con Cobertura de Canas para Mujer y Hombres con Ingredientes Herbales Naturales",
+          "precio": "$299.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/476d6249-cece-45dd-b0d6-301fcd5b2d7c.c18a07bef40ecabe6fc55eddb223bba2.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Aceite Vegetal Aurrera Mixto 800 ml",
+          "precio": "$30.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/69a3edc2-30ca-44f2-9eca-e8ec521518a7.6cc982face0a0515eee5c28b68c93217.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Atún": [
+        {
+          "nombre": "Cubitos de atún Dolores aleta amarilla 200 g congelado",
+          "precio": "$59.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/48d09744-7933-49bd-b09b-c3e1006d9f4c.339d208bc12921b9a7c2a8c0666fc52c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Atún Dolores aleta amarilla en agua con aceite 295 g",
+          "precio": "$40.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/966b4c44-725e-4798-bc6f-4e915ee371d8.4925fd62c371f1d4c0fddf53f5c0f945.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Atún Tuny clásico en agua 140 g",
+          "precio": "$18.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b80ab46e-313d-47f4-acee-99657df8e0af.c7d49cd8fffda64af427a2a1ccd967b1.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Atún FishaTuna en agua 140 g",
+          "precio": "$11.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/d68a1fc0-d40c-4a76-9af8-a51d2286ff27.8146dca48617254f4ddd2b55b9d953a6.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Azúcar": [
+        {
+          "nombre": "Azúcar Aurrera estándar 2 kg",
+          "precio": "$44.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/b264ca85-2dca-417c-84e8-f8a2aa803f28.4db51356d71f9aaca09fb6b7580a923b.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Azúcar Zulka Morena 900 gr",
+          "precio": "$22.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/08f12fff-4ac3-4e47-bff9-37fe34044a92.d807514bf09cfadce82d8b6fa025fde7.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Yogurt bebible Chobani estilo griego mango 207 ml",
+          "precio": "$35.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/6a5f5ae3-1bef-4a90-abd1-63aa3d7b9f91.f347ea719a9da08f260c23ba6cc36f01.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Azúcar Great Value refinada 2 kg",
+          "precio": "$82.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/d0b98808-f392-4b8b-a3a0-a8e5c688ac9c.338213f70f6df0f1cee21c6710b48626.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ],
+      "Café": [],
+      "Galletas": [
+        {
+          "nombre": "Galletas Emperador sabor Chocolate 303 g",
+          "precio": "$39.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/6bf47db2-ca99-48af-913a-edde5eb7a246.69f8fa85b2d5a7a72f3f1499cbc9998a.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Galletas Marías 720 g",
+          "precio": "$81.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/3a89c112-6a61-4cae-ab6e-3ff9d76b2e49.3e9b4040d34d65e57b013e1e6d2e3490.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Galletas Marketside peanut butter chocolate chunk 383g",
+          "precio": "$98.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/324d0924-57ec-4e75-b902-d557ec44fccd.4fcba99ed3196b4f9ace0f04df9d8645.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "Galletas Emperador Pirueta sabor limón 288 g",
+          "precio": "$39.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/ad342e8f-b793-41b7-a263-5e3ab9490500.866019e42f30341288b0a44b55c6a627.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        },
+        {
+          "nombre": "",
+          "precio": "$39.00",
+          "link": "",
+          "imagen": "https://i5.walmartimages.com/asr/3a6698c6-8216-4dbb-8ab2-57d9979743ec.ea5ff65c31ce827eb622136f01f55ed1.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF"
+        }
+      ]
+    }
+  ]
+}
